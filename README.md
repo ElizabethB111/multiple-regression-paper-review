@@ -6,7 +6,7 @@ This review examines a Malaysian study that compared two multiple regression mod
 
 The better-performing Model 2 (which properly met regression assumptions and used variable subdomains) explained 27.6% of variance in math achievement. Three factors emerged as most influential: number of books at home, student confidence, and math learning anxiety.
 
-## Key Criticisms
+## Concerns
 
 - **Methodological mismatch**: The study used stepwise/forward/backward selection (predictive methods) for an explanatory research goal
 - **Clarity issues**: Inconsistent variable naming, unclear distinctions (especially between learning vs. testing anxiety), and confusing demographic labeling
